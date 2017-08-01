@@ -35,4 +35,4 @@ truffle migration
    */
   module.exports = function(deployer, network, accounts) { ... }
   ```
-- [deployer api](deployer to stage deployment tasks)
+- [deployer api](https://github.com/4000D/truffle-tutorial.git)
