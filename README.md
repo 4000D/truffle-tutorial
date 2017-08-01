@@ -1,10 +1,10 @@
 ### [Truffle](http://truffleframework.com/) Tutorial
 
 ### Contents
-- [install](./docs/1-install.md)
-- [create a project](./docs/2-create-a-project.md)
-- [compiling and migration](./docs/3-compiling-and-migration.md)
-- [testing](./docs/4-testing.md)
+1. [install](./docs/1-install.md)
+2. [create a project](./docs/2-create-a-project.md)
+3. [compiling and migration](./docs/3-compiling-and-migration.md)
+4. [testing](./docs/4-testing.md)
 
 
 #### Related Articles
